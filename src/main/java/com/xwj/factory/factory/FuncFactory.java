@@ -6,7 +6,7 @@ import com.xwj.factory.func.QueryFuncB;
 import com.xwj.factory.func.QueryFuncC;
 
 /**
- * 工厂类
+ * 工厂类  你好
  * 
  * @author XU.WJ 2018年3月13日
  */
